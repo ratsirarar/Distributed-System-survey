@@ -1,4 +1,4 @@
-# Distributed-System-survey
+# Distributed System survey
 ## Summary:
 This is a survey/notes of Distributed system/articles as reference for myself.
 
